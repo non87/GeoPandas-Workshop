@@ -20,3 +20,5 @@ If you prefer to use your local machine, then you can create a specific Anaconda
 
 It is important that you specify conda-forge as a channel in order to get the last version of GeoPandas. The default channel still distributes version 0.6 at this time.
 
+After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of this window.
+
