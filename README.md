@@ -11,7 +11,7 @@ This workshop was created using Python 3.6, Pandas 1.0.3 and GeoPandas 0.7. The 
 The notebooks require Pandas, GeoPandas, matplotlib and numpy. The code requires that your version of Pandas and GeoPandas is up to date. To be sure that is the case you can use the Google Collaboratory version of the notebooks. 
 To use the colaboratory version, it is sufficient to open the following links, let your browser load the file and click on the "open in colab" icon that will appear on top of the file:
 
-1.   [Part 1 on Colab](https://github.com/aarcher07/stats_models/blob/master/Linear%20Modelling%20in%20R.pdf , "Click here to access the first notebook in your browser")
+1.   [Part 1 on Colab](https://github.com/aarcher07/stats_models/blob/master/Linear%20Modelling%20in%20R.pdf)
 2.   [Part 2 on Colab](https://github.com/non87/GeoPandas-Workshop , "Click here to access the second notebook in your browser") -- this is still to be created.
 
 If you prefer to use your local machine, then you can create a specific Anaconda environment with this line of code:
