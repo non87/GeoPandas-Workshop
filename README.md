@@ -1,14 +1,14 @@
 # GeoPandas-Workshop
 Contains the material for the GeoPandas Spring 2020 Workshop.
 
-The workshop is divided into two parts. Part 1 regards the foundation of Pandas Part 2 introduces GeoPandas. Both parts consists of Notebook plus external data to be analyzed. The data is contained in this same repository, be sure to download the entire depository.
+The workshop is divided into two parts. Part 1 regards the foundation of Pandas. Part 2 introduces GeoPandas. Both parts consists of a Jupyter notebook plus external data to be analyzed. The data is contained in this same repository, be sure to download the entire depository.
 
 ## Note on Versioning
 
 This workshop was created using Python 3.6, Pandas 1.0.3 and GeoPandas 0.7. The versions of Pandas and GeoPandas are critical for the correct execution of the code. You can follow the instructions below to get the correct versions on your machine or you can run the code on Google Collaboratory.
 
 ## How to Run the Notebooks
-The notebooks require Pandas, GeoPandas, matplotlib and numpy. The code requires that your version of Pandas and GeoPandas is up to date. To be sure that is the case you can use the Google Collaboratory version of the notebooks. 
+The notebooks require Pandas, GeoPandas, matplotlib and numpy. The code requires that your version of Pandas and GeoPandas is up to date. To be sure that is the case, you can use the Google Collaboratory version of the notebooks. 
 To use the colaboratory version, it is sufficient to open the following links, let your browser load the file and click on the "open in colab" icon that will appear on top of the file:
 
 1.   [Part 1 on Colab](./workshop1_colaboratory.ipynb)
