@@ -18,9 +18,11 @@ If you prefer to use your local machine, then you can create a specific Anaconda
 
 `conda create -c conda-forge -n geopandas_workshop python=3.6 matplotlib numpy geoPandas pandas`
 
-It is important that you specify conda-forge as a channel in order to get the last version of GeoPandas. The default channel still distributes version 0.6 at this time.
+It is important that you specify conda-forge as a channel in order to get the last version of GeoPandas. The default channel still distributes version 0.6 at this time. To activate the environment, you can use
 
-After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/GeoPandas-Workshop).
+`conda activate geopandas_workshop`
+
+After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/GeoPandas-Workshop). Finally, you can use Jupyter Notebook or Jupyter Lab (both included with Ananconda) to open the notebooks.
 
 ## Exercises
 
