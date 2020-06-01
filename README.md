@@ -22,3 +22,12 @@ It is important that you specify conda-forge as a channel in order to get the la
 
 After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/GeoPandas-Workshop).
 
+## Exercises
+
+You can find the solutions to the exercises in the following links:
+
+1.   [Part 1 on Colab](./solutions/solutions_part1.ipynb)
+2.   [Part 2 on Colab](./solutions/solutions_part2.ipynb)
+
+To see how the solutions work, you will have to copy paste the code in the original notebooks of the first / second part.
+
