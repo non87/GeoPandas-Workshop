@@ -12,7 +12,7 @@ The notebooks require Pandas, GeoPandas, matplotlib and numpy. The code requires
 To use the colaboratory version, it is sufficient to open the following links, let your browser load the file and click on the "open in colab" icon that will appear on top of the file:
 
 1.   [Part 1 on Colab](./workshop1_colaboratory.ipynb)
-2.   [Part 2 on Colab](./) -- this is still to be created.
+2.   [Part 2 on Colab](./workshop2_colaboratory.ipynb)
 
 If you prefer to use your local machine, then you can create a specific Anaconda environment with this line of code:
 
