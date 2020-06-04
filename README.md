@@ -1,4 +1,4 @@
-# GeoPandas-Workshop
+# GeoPandas Workshop
 Contains the material for the GeoPandas Spring 2020 Workshop.
 
 The workshop is divided into two parts. Part 1 regards the foundation of Pandas. Part 2 introduces GeoPandas. Both parts consists of a Jupyter notebook plus external data to be analyzed. The data is contained in this same repository, be sure to download the entire depository.
