@@ -22,7 +22,7 @@ It is important that you specify conda-forge as a channel in order to get the la
 
 `conda activate geopandas_workshop`
 
-After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/GeoPandas-Workshop). Finally, you can use Jupyter Notebook or Jupyter Lab (both included with Ananconda) to open the notebooks.
+After this, you can download the entire repository with the "clone or download" green button on the right-upper corner of the [repository homepage](https://github.com/non87/GeoPandas-Workshop). Finally, you can use Jupyter Notebook or Jupyter Lab (both included with Ananconda) to open the local versions of the notebooks.
 
 ## Exercises
 
